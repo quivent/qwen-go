@@ -1,0 +1,8 @@
+{
+  "name": "workspace-tools",
+  "version": "0.2.0",
+  "description": "Native Git inspection, parallel code review, and test planning.",
+  "mcpServers": {
+    "git": {"command": "qwen-go", "args": ["mcp-serve"]}
+  }
+}

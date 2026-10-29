@@ -1,0 +1,8 @@
+Qwen Go is an independent native Go implementation of a Qwen-compatible coding client.
+It is not the official Qwen Code release and is not affiliated with its maintainers.
+
+Protocol/auth behavior was ported with reference to installed Qwen Code 0.24.5
+(@qwen-code/qwen-code), distributed under the Apache License 2.0.
+Its JavaScript source and Node.js runtime are not shipped in this executable.
+
+Go terminal dependencies retain their respective licenses in their upstream modules.
